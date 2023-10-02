@@ -12,8 +12,7 @@ Hunting pit in a high resolution digital elevation model (DEM).
 
 ## Click this button to get started
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Unet-tutorial/blob/main/U_net_tutorial_on_impact_craters.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Unet-tutorial/blob/main/U_net_tutorial_with_transfer_learning.ipynb)
 
 ## Data description
 
