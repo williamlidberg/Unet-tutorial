@@ -10,8 +10,7 @@ This is an example on how to train and evaluate a basic Unet model
 
 ## Click this button to get started
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/williamlidberg/Unet-tutorial-with-transfer-learning/blob/main/Unet-tutorial-with-transfer-learning.ipynb](https://colab.research.google.com/github/williamlidberg/Unet-tutorial/blob/main/U_net_tutorial_with_transfer_learning.ipynb))
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Unet-tutorial/blob/main/U_net_tutorial_with_transfer_learning.ipynb)
 
 
 
